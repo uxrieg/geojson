@@ -4354,6 +4354,7 @@
     },
     "properties": {
       "code": "40",
+	  "fill": "#ff4c4c",
       "nom": "Landes"
     }
   }, {
@@ -6003,6 +6004,7 @@
     },
     "properties": {
       "code": "47",
+	  "fill": "#ff4c4c",
       "nom": "Lot-et-Garonne"
     }
   }, {
@@ -7833,6 +7835,7 @@
     },
     "properties": {
       "code": "62",
+	  "fill": "#ffa500",
       "nom": "Pas-de-Calais"
     }
   }, {
@@ -8872,6 +8875,7 @@
     "properties": {
       "code": "67",
       "nom": "Bas-Rhin"
+	  "fill": "#ffa500",
     }
   }, {
     "type": "Feature",
@@ -9187,7 +9191,8 @@
     },
     "properties": {
       "code": "68",
-      "nom": "Haut-Rhin"
+      "nom": "Haut-Rhin",
+	  "fill": "#ffa500"
     }
   }, {
     "type": "Feature",
@@ -13003,6 +13008,7 @@
     },
     "properties": {
       "code": "09",
+	  "fill": "#ff4c4c",
       "nom": "Ari\u00e8ge"
     }
   }, {
@@ -13818,6 +13824,7 @@
     },
     "properties": {
       "code": "17",
+	  "fill": "#ff4c4c",
       "nom": "Charente-Maritime"
     }
   }, {
@@ -14327,6 +14334,7 @@
     },
     "properties": {
       "code": "19",
+	  "fill": "#ff4c4c",
       "nom": "Corr\u00e8ze"
     }
   }, {
@@ -14960,6 +14968,7 @@
     },
     "properties": {
       "code": "24",
+	  "fill": "#ff4c4c",
       "nom": "Dordogne"
     }
   }, {
@@ -18317,6 +18326,7 @@
     },
     "properties": {
       "code": "64",
+	  "fill": "#ff4c4c",
       "nom": "Pyr\u00e9n\u00e9es-Atlantiques"
     }
   }, {
@@ -20356,6 +20366,7 @@
     },
     "properties": {
       "code": "81",
+	  "fill": "#ff4c4c",
       "nom": "Tarn"
     }
   }, {
@@ -20939,6 +20950,7 @@
     },
     "properties": {
       "code": "82",
+	  "fill": "#ff4c4c",
       "nom": "Tarn-et-Garonne"
     }
   }, {
@@ -22765,6 +22777,7 @@
     },
     "properties": {
       "code": "87",
+	  "fill": "#ff4c4c",
       "nom": "Haute-Vienne"
     }
   }, {
@@ -29921,6 +29934,7 @@
     },
     "properties": {
       "code": "33",
+	  "fill": "#ff4c4c",
       "nom": "Gironde"
     }
   }, {
@@ -33509,6 +33523,7 @@
     },
     "properties": {
       "code": "65",
+	  "fill": "#ff4c4c",
       "nom": "Hautes-Pyr\u00e9n\u00e9es"
     }
   }, {
@@ -36940,7 +36955,6 @@
     "properties": {
       "code": "01",
       "nom": "Ain",
-	  "fill": "#00aa22"
     }
   }, {
     "type": "Feature",
@@ -37605,6 +37619,7 @@
     },
     "properties": {
       "code": "12",
+	  "fill": "#ff4c4c",
       "nom": "Aveyron"
     }
   }, {
@@ -38728,6 +38743,7 @@
     },
     "properties": {
       "code": "16",
+	  "fill": "#ff4c4c",
       "nom": "Charente"
     }
   }, {
@@ -41852,6 +41868,7 @@
     },
     "properties": {
       "code": "31",
+	  "fill": "#ff4c4c",
       "nom": "Haute-Garonne"
     }
   }, {
@@ -42423,6 +42440,7 @@
     },
     "properties": {
       "code": "32",
+	  "fill": "#ff4c4c",
       "nom": "Gers"
     }
   }, {
@@ -44514,6 +44532,7 @@
     },
     "properties": {
       "code": "46",
+	  "fill": "#ff4c4c",
       "nom": "Lot"
     }
   }, {
@@ -47738,7 +47757,9 @@
     },
     "properties": {
       "code": "59",
+	  "fill": "#ffa500",
       "nom": "Nord"
+	  
     }
   }, {
     "type": "Feature",
