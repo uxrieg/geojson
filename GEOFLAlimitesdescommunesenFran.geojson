@@ -36939,7 +36939,8 @@
     },
     "properties": {
       "code": "01",
-      "nom": "Ain"
+      "nom": "Ain",
+	  "fill": "#00aa22"
     }
   }, {
     "type": "Feature",
