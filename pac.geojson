@@ -8874,8 +8874,8 @@
     },
     "properties": {
       "code": "67",
-      "nom": "Bas-Rhin"
-	  "fill": "#ffa500",
+      "nom": "Bas-Rhin",
+	  "fill": "#ffa500"
     }
   }, {
     "type": "Feature",
